@@ -9,10 +9,10 @@ import org.testng.annotations.Test;
 import page.PageFactory;
 import page.SingularCollectionDetailPage;
 import page.SingularCollectionPage;
-import common.Browser;
-import common.Common;
-import common.Constant;
-import common.Interfaces;
+//import common.Browser;
+///import common.Common;
+//import common.Constant;
+//import common.Interfaces;
 
 
 public class SingularCollection_33_34_35 extends Common {
