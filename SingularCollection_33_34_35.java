@@ -8,10 +8,10 @@ import org.testng.annotations.Test;
 import page.PageFactory;
 import page.SingularCollectionDetailPage;
 import page.SingularCollectionPage;
-import common.Browser;
-import common.Common;
-import common.Constant;
-import common.Interfaces;
+//import common.Browser;
+///import common.Common;
+//import common.Constant;
+//import common.Interfaces;
 
 
 public class SingularCollection_33_34_35 extends Common {
@@ -51,7 +51,7 @@ public class SingularCollection_33_34_35 extends Common {
 		String topictext = singularCollectionDetailPage.getTopicText();
 		
 		log.info("Click on a random topic");
-		singularCollectionDetailPage.chooseTopic();
+		//singularCollectionDetailPage.chooseTopic();
 					
 		//VP:The corresponding topic page is opened
 		
