@@ -51,6 +51,7 @@ public class SingularCollection_33_34_35 extends Common {
 		String topictext = singularCollectionDetailPage.getTopicText();
 		
 		log.info("Click on a random topic");
+		singularCollectionDetailPage.chooseTopic();
 					
 		//VP:The corresponding topic page is opened
 		
